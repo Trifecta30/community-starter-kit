@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+Plz do not mess up
 
 ## What it does
 
 FEATURES PLACEHOLDER
+Hopefully it works this time
 
 ## Getting started
 
